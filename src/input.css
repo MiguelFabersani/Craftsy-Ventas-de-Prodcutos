@@ -1,0 +1,11 @@
+/* tailwind.css */
+
+/* Importa los estilos base de Tailwind CSS */
+@import "tailwindcss/base";
+
+/* Configura las clases responsivas para diferentes tamaños de pantalla */
+@import "tailwindcss/responsive";
+
+/* Importa las utilidades de Tailwind CSS */
+@import "tailwindcss/utilities";
+
