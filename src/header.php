@@ -23,7 +23,7 @@ if (!$_SESSION['id']) {
 
 <body class="font-[Poppins] bg-emerald-100 h-screen">
 
-<h1>hola</h1>
+
     <div class="bg-blue-400 w-full py-3">
 
         <nav class=" mx-auto flex justify-between items-center w-[92%] bg-blue-400 ">
